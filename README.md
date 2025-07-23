@@ -1,4 +1,4 @@
-# Projeto CSS 2 – Treinando Responsividade | DevClub 💻📱
+# Projeto CSS 2: Easy Shopping – Treinando Responsividade | DevClub 💻📱
 
 Este projeto foi desenvolvido como parte dos meus estudos no DevClub, com foco em praticar **responsividade com CSS**, posicionamento de elementos e adaptação do layout para diferentes tamanhos de tela (desktop, tablet e mobile).
 
